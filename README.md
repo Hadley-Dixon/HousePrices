@@ -1,4 +1,4 @@
-## House Prices - Advanced Regression Techniques
+# House Prices - Advanced Regression Techniques
 
 # Project Description
 This assignment is to compete in the Kaggle competition, House Prices - Advanced Regression Techniques: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques. 
